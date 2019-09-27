@@ -20,10 +20,8 @@ main {
   justify-content: center;
   align-items: center;
 }
-.setWidth {
-  flex-basis: 100px;
-  flex-grow: 2;
-}
+
+
 
 .item {
   height: 100px;
